@@ -1,0 +1,17 @@
+{
+  "name": "Vanilla ToDo App",
+  "description": "Test Todo app, firefox os - vanilla js",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icons/icon_128.png"
+  },
+  "developer": {
+    "name": "Vanco Stojkov",
+    "url": "http://stojkov.me"
+  },
+  "permissions": {
+    "desktop-notification": {
+      "description": "Needed for creating system notifications. (just a test permission)"
+    }
+  }
+}
